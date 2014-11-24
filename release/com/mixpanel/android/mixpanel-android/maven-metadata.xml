@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mixpanel.android</groupId>
+  <artifactId>mixpanel-android</artifactId>
+  <version>4.4.0</version>
+  <versioning>
+    <versions>
+      <version>4.4.0</version>
+      <version>5.0.0.0</version>
+    </versions>
+    <lastUpdated>20141027173624</lastUpdated>
+  </versioning>
+</metadata>
