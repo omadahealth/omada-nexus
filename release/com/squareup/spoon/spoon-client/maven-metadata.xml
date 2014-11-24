@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.squareup.spoon</groupId>
+  <artifactId>spoon-client</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.2-OG-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140910195018</lastUpdated>
+  </versioning>
+</metadata>
