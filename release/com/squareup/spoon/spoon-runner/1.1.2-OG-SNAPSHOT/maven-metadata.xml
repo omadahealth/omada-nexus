@@ -5,26 +5,26 @@
   <version>1.1.2-OG-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20141203.191109</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20141203.192029</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20141203191109</lastUpdated>
+    <lastUpdated>20141203192029</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.2-OG-20141203.191109-3</value>
-        <updated>20141203191109</updated>
+        <value>1.1.2-OG-20141203.192029-4</value>
+        <updated>20141203192029</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.2-OG-20141203.191109-3</value>
-        <updated>20141203191109</updated>
+        <value>1.1.2-OG-20141203.192029-4</value>
+        <updated>20141203192029</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>jar-with-dependencies</classifier>
         <extension>jar</extension>
-        <value>1.1.2-OG-20141203.191109-3</value>
-        <updated>20141203191109</updated>
+        <value>1.1.2-OG-20141203.192029-4</value>
+        <updated>20141203192029</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

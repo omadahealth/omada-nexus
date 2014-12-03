@@ -5,20 +5,20 @@
   <version>1.1.2-OG-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20141203.191111</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20141203.192032</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20141203191111</lastUpdated>
+    <lastUpdated>20141203192032</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.2-OG-20141203.191111-3</value>
-        <updated>20141203191111</updated>
+        <value>1.1.2-OG-20141203.192032-4</value>
+        <updated>20141203192032</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.2-OG-20141203.191111-3</value>
-        <updated>20141203191111</updated>
+        <value>1.1.2-OG-20141203.192032-4</value>
+        <updated>20141203192032</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
