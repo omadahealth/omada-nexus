@@ -4,8 +4,8 @@
   <artifactId>parent</artifactId>
   <versioning>
     <versions>
-      <version>1.1.2.3-OG-SNAPSHOT</version>
+      <version>1.1.2.4-OG-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20141203195824</lastUpdated>
+    <lastUpdated>20141203213450</lastUpdated>
   </versioning>
 </metadata>
