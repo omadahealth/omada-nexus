@@ -3,10 +3,10 @@
   <groupId>com.squareup.spoon</groupId>
   <artifactId>spoon-maven-plugin</artifactId>
   <versioning>
-    <latest>1.1.2.8-OG-SNAPSHOT</latest>
+    <latest>1.1.2.9-OG-SNAPSHOT</latest>
     <versions>
-      <version>1.1.2.8-OG-SNAPSHOT</version>
+      <version>1.1.2.9-OG-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20141205225854</lastUpdated>
+    <lastUpdated>20141205232720</lastUpdated>
   </versioning>
 </metadata>
