@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.getbase</groupId>
   <artifactId>floatingactionbutton</artifactId>
-  <version>1.3.0</version>
+  <version>1.3.0-OG</version>
   <versioning>
     <versions>
-      <version>1.3.0</version>
+      <version>1.3.0-OG</version>
     </versions>
-    <lastUpdated>20141211190446</lastUpdated>
+    <lastUpdated>20141216193552</lastUpdated>
   </versioning>
 </metadata>
