@@ -2,15 +2,6 @@
 <metadata>
   <groupId>com.github.omadahealth.slidepager</groupId>
   <artifactId>slidepager</artifactId>
-<<<<<<< HEAD
-  <version>1.2.0.1-BETA</version>
-  <versioning>
-    <versions>
-      <version>1.2.0.1-BETA</version>
-    </versions>
-    <lastUpdated>20150807165007</lastUpdated>
-=======
-  <version>1.1.1</version>
   <versioning>
     <versions>
       <version>1.1.1</version>
@@ -31,8 +22,8 @@
       <version>1.4.9.1</version>
       <version>1.4.9.2</version>
       <version>1.5.3</version>
+      <version>1.6.0.1-BETA</version>
     </versions>
-    <lastUpdated>20150519004708</lastUpdated>
->>>>>>> de64f3133774e699a68b3aafe2c6deb3793b2556
+    <lastUpdated>20150807174705</lastUpdated>
   </versioning>
 </metadata>
