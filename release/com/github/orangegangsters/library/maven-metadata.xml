@@ -2,8 +2,8 @@
 <metadata>
   <groupId>com.github.orangegangsters</groupId>
   <artifactId>library</artifactId>
-  <version>1.2.1</version>
   <versioning>
+    <release>1.2.6.1-OG</release>
     <versions>
       <version>1.2.1</version>
       <version>1.2.2-OG</version>
@@ -12,7 +12,8 @@
       <version>1.2.3</version>
       <version>1.2.4</version>
       <version>1.2.5</version>
+      <version>1.2.6.1-OG</version>
     </versions>
-    <lastUpdated>20150421212926</lastUpdated>
+    <lastUpdated>20150930205144</lastUpdated>
   </versioning>
 </metadata>
