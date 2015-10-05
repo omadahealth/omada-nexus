@@ -7,7 +7,7 @@ Allows to deploy custom libraries using this maven repository
 
 License
 
-    Copyright 2013 Omaha Health.
+    Copyright 2013 Omada Health.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
