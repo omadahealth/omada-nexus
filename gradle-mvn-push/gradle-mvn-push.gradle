@@ -93,12 +93,12 @@ afterEvaluate { project ->
     }
 
     task androidJavadocs(type: Javadoc) {
+	failOnError false
         source = android.sourceSets.main.java.srcDirs
         classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
     }
 
     task androidJavadocsJar(type: Jar, dependsOn: androidJavadocs) {
-	failOnError = false
         classifier = 'javadoc'
         from androidJavadocs.destinationDir
     }
