@@ -3,11 +3,12 @@
   <groupId>com.github.omadahealth.slidepager</groupId>
   <artifactId>slidepager</artifactId>
   <versioning>
-    <release>2.1.1-TEST</release>
+    <release>2.1.2-TEST</release>
     <versions>
       <version>2.1.0-TEST</version>
       <version>2.1.1-TEST</version>
+      <version>2.1.2-TEST</version>
     </versions>
-    <lastUpdated>20151104000008</lastUpdated>
+    <lastUpdated>20151104002855</lastUpdated>
   </versioning>
 </metadata>
