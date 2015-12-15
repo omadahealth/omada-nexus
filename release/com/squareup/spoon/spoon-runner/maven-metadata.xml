@@ -3,9 +3,11 @@
   <groupId>com.squareup.spoon</groupId>
   <artifactId>spoon-runner</artifactId>
   <versioning>
+    <release>1.2.2-SNAPSHOT-OG</release>
     <versions>
       <version>1.1.2.9-OG-SNAPSHOT</version>
+      <version>1.2.2-SNAPSHOT-OG</version>
     </versions>
-    <lastUpdated>20141205232718</lastUpdated>
+    <lastUpdated>20151215183032</lastUpdated>
   </versioning>
 </metadata>
