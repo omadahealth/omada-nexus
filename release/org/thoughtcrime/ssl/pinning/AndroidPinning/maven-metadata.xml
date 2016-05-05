@@ -3,11 +3,12 @@
   <groupId>org.thoughtcrime.ssl.pinning</groupId>
   <artifactId>AndroidPinning</artifactId>
   <versioning>
-    <release>1.0.0-OG-NetCipher1.2</release>
+    <release>1.0.0-OG-NetCipher1.2-DigicertRoot</release>
     <versions>
       <version>1.0.0-OG</version>
       <version>1.0.0-OG-NetCipher1.2</version>
+      <version>1.0.0-OG-NetCipher1.2-DigicertRoot</version>
     </versions>
-    <lastUpdated>20160505163711</lastUpdated>
+    <lastUpdated>20160505170109</lastUpdated>
   </versioning>
 </metadata>
