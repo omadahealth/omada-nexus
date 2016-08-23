@@ -3,13 +3,14 @@
   <groupId>com.github.omadahealth.typefaceview</groupId>
   <artifactId>typefaceview</artifactId>
   <versioning>
-    <release>1.4.1-TEST</release>
+    <release>1.5.0-AVENIR</release>
     <versions>
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.2.5</version>
       <version>1.4.1-TEST</version>
+      <version>1.5.0-AVENIR</version>
     </versions>
-    <lastUpdated>20160225192054</lastUpdated>
+    <lastUpdated>20160823173749</lastUpdated>
   </versioning>
 </metadata>
