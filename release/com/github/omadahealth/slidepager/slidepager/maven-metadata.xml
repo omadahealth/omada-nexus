@@ -3,7 +3,7 @@
   <groupId>com.github.omadahealth.slidepager</groupId>
   <artifactId>slidepager</artifactId>
   <versioning>
-    <release>2.5.0.2-beta</release>
+    <release>2.5.0.3-beta</release>
     <versions>
       <version>2.1.0-TEST</version>
       <version>2.1.1-TEST</version>
@@ -30,7 +30,8 @@
       <version>2.5.0</version>
       <version>2.5.0.1-beta</version>
       <version>2.5.0.2-beta</version>
+      <version>2.5.0.3-beta</version>
     </versions>
-    <lastUpdated>20170214225343</lastUpdated>
+    <lastUpdated>20170214233410</lastUpdated>
   </versioning>
 </metadata>
